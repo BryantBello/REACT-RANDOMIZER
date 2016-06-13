@@ -17,7 +17,7 @@ var Adder = React.createClass({
 
 			<div className="panel panel-default">
 				<div className="panel-heading">
-					<h3 className="panel-title">Adder</h3>
+					<h3 className="panel-title">Adder!</h3>
 				</div>
 				<div className="panel-body text-center">
 
