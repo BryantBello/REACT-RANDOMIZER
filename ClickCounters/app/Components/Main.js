@@ -38,7 +38,7 @@ var Main = React.createClass({
 						<p>I do crazy things.</p>
 						<p>
 							{/*Here we create a button click. Note how we have an onClick event associate with our handleClick function.*/}
-							<a className="btn btn-primary btn-lg" type="button" onClick={this.handleClick}>CLICK ME!!!!</a>
+							<a className="btn btn-primary btn-lg" type="button" onClick={this.handleClick}>CLICK ME!!!!!!!</a>
 						</p>
 					</div>
 
